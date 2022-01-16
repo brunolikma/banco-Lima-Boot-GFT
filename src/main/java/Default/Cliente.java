@@ -7,8 +7,6 @@ import lombok.Setter;
 @Setter
 public class Cliente {
 
-
     public String nome;
 
 }
-
